@@ -1,2 +1,2 @@
 # githubTest
-For test only
+For testing github fucntionalities
